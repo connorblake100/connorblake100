@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @connorblake100
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on new projects
+- 👀 I’m interested in programming and finance
 - 📫 How to reach me connor.blake100@gmail.com
 
 <!---
